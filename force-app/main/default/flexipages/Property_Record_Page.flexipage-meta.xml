@@ -162,7 +162,6 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
-<<<<<<< HEAD
                     <name>latField</name>
                     <value>Location__Latitude__s</value>
                 </componentInstanceProperties>
